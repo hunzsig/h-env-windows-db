@@ -15,7 +15,7 @@ windows-redis
 https://github.com/tporadowski/redis/releases
 ```
 
-
+> mysql简单指引
 ```ini
 mysql解压后
 创建在目录创建 my.ini（参考各目录conf.d）
